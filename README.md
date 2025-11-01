@@ -72,6 +72,8 @@ O projeto foi desenvolvido a partir do repositório base fornecido pelo instruto
 
 ---
 
+📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
+
 ##  Conclusão
 
 Mesmo sem a execução prática completa por limitações de hardware, este projeto demonstra domínio sobre os conceitos de **integração contínua**, **entrega contínua**, **containerização** e **orquestração em nuvem**, fundamentais no ciclo moderno de desenvolvimento DevOps.
